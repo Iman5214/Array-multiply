@@ -1,4 +1,4 @@
-# VERILOG
+# ARRAY MULTIPHY
 module array16(a,b,c);
  
     input [15:0]a,b;
